@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* Kavy Rattana HTML Lab 2 */
+body 
+{
+	background-color:#09C;
+	margin-left: auto;
+    margin-right: auto;
+	text-align:center
+
+}
+#header
+{
+	alignment-adjust:central;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#navigation
+{
+    margin-left: auto;
+    margin-right: auto;
+	text-align:center;
+}
+p.description 
+{
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align:center;
+}
+img.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
